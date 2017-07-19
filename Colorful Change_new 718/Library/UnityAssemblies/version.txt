@@ -1,0 +1,13 @@
+5.6.1f1:3.1.0.0
+iOS
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/Managed/UnityEngine.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/Managed/UnityEditor.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll
+C:/Users/user/Desktop/Unity5３０/Editor５６１/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll
